@@ -39,5 +39,9 @@
 		"rimraf": "^2.2.8",
 		"tempy": "^0.2.1",
 		"xo": "*"
+	},
+	"publishConfig": {
+		"registry": "http://registry.npm.alibaba-inc.com"
 	}
+
 }
