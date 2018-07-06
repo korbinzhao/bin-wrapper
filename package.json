@@ -1,6 +1,6 @@
 {
 	"name": "bin-wrapper",
-	"version": "3.0.2",
+	"version": "3.0.3",
 	"description": "Binary wrapper that makes your programs seamlessly available as local dependencies",
 	"license": "MIT",
 	"repository": "kevva/bin-wrapper",
@@ -27,7 +27,7 @@
 	"dependencies": {
 		"bin-check": "^2.0.0",
 		"bin-version-check": "^2.1.0",
-		"download": "^4.0.0",
+		"download": "^7.0.0",
 		"import-lazy": "^2.1.0",
 		"os-filter-obj": "^1.0.0"
 	},
